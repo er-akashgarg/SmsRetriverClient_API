@@ -32,3 +32,10 @@ senderAddress	address of desired SMS sender, or null to retrieve any sender
 ### Returns
 
  * a Task for the call. Attach an OnCompleteListener and then check isSuccessful() to determine if it was successful.
+ 
+ 
+ ## ScreenShots-:
+<div class="row">
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-1.png" width="200" height="700" />
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-2.png" width="200" height="700" />
+</div>
