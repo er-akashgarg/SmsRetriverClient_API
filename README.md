@@ -1,2 +1,2 @@
-# SmsRetriverClient_API
-  SMS Retriver Client API for SMS in android device.
+# SmsRetrieverClient-API
+  SMS Retriever Client API for SMS in android device.
