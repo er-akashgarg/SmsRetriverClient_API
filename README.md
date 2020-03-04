@@ -13,8 +13,10 @@ Starts SmsRetriever, which waits for a matching SMS message until timeout (5 min
 
 DEVELOPER_ERROR: the caller app has incorrect number of certificates. Only one certificate is allowed.
 ERROR: the AppCode collides with other installed apps.
-Returns
-a Task for the call. Attach an OnCompleteListener and then check isSuccessful() to determine if it was successful.
+
+### Returns
+
+* a Task for the call. Attach an OnCompleteListener and then check isSuccessful() to determine if it was successful.
 public abstract Task<Void> startSmsUserConsent (String senderAddress)
 Starts SmsUserConsent, which waits for an OTP-containing SMS message until timeout (5 minutes). OTP-containing SMS message can be retrieved with two steps.
   
@@ -27,5 +29,6 @@ Starts SmsUserConsent, which waits for an OTP-containing SMS message until timeo
 Parameters
 senderAddress	address of desired SMS sender, or null to retrieve any sender
 
-### Returns 
+### Returns
+
  * a Task for the call. Attach an OnCompleteListener and then check isSuccessful() to determine if it was successful.
