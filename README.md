@@ -36,6 +36,6 @@ senderAddress	address of desired SMS sender, or null to retrieve any sender
  
  ## ScreenShots-:
 <div class="row">
-<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-1.png" width="800" height="350" />
-<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-2.png" width="800" height="350" />
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-1.png" width="900" height="370" />
+<img src="https://github.com/er-akashgarg/SmsRetriverClient_API/blob/master/screenshots/SS-2.png" width="900" height="370" />
 </div>
