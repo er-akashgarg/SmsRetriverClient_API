@@ -1,4 +1,4 @@
-# SmsRetrieverClient-API
+# Android SmsRetrieverClient-API
   SMS Retriever Client API for SMS in android device.
   
 ## Public Methods
