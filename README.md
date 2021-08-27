@@ -8,7 +8,6 @@ Starts SmsRetriever, which waits for a matching SMS message until timeout (5 min
 
 ### Note: Add SEND_PERMISSION while registering the receiver to detect that the broadcast intent is from the SMS Retriever. Be aware that this detection only works on devices using Google Play services v19.8.31 and later.
 
-
 ### The possible causes for errors are:
 
 DEVELOPER_ERROR: the caller app has incorrect number of certificates. Only one certificate is allowed.
@@ -32,7 +31,6 @@ senderAddress	address of desired SMS sender, or null to retrieve any sender
 ### Returns
 
  * a Task for the call. Attach an OnCompleteListener and then check isSuccessful() to determine if it was successful.
- 
  
  ## ScreenShots-:
 <div class="row">
